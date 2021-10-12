@@ -1,0 +1,6 @@
+1) git clone https://github.com/cristian-git/practica1GIT.git
+3) cree el nuevo archivo con mi nombre
+4) git status 
+5) git add .
+6) git commit -m "Archivo Cristian Quiñones"
+7) git push 
